@@ -1,0 +1,142 @@
+body {
+  font-family: 'Alumni Sans Pinstripe', sans-serif;
+  text-align: center;
+  color: #f2e9e4;
+  background-color: #22223b;
+  max-width: 10000px;
+  padding: 0%;
+}
+
+#hero {
+  background-image: url(images/LA-Tech.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center bottom;
+  padding: 200px;
+  margin-bottom: 0px;
+}
+
+#intro {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#visit {
+  background: #e63946;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 5px auto 10px;
+  width: fit-content;
+}
+
+#visit:hover {
+  box-shadow: 0px 0px 20px #000000;
+}
+
+#enjoy {
+  background: #d62828;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin: 5px auto 10px;
+  width: fit-content;
+}
+
+#enjoy:hover {
+  box-shadow: 0px 0px 20px #000000;
+}
+
+img {
+  width: 200px;
+}
+
+#middle-page {
+  margin: 0px;
+  padding: 0px;
+  background-color: #22223b;
+  padding: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#middle-tittle {
+  padding: 0px;
+  margin: 0px;
+  margin-bottom: 50px;
+  width: fit-content;
+}
+
+
+#middle-items {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: wrap;
+  margin-bottom: 50px;
+  font-weight: bold;
+  font-size: 20px;
+  width: 100%;
+}
+
+#show-img {
+  border-radius: 50%;
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
+}
+
+
+#park-img {
+  border-radius: 50%;
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
+}
+
+
+#field-img {
+  border-radius: 50%;
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
+}
+
+#your-guide {
+  background-color: #0077b6;
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#card {
+  width: 400px;
+  margin: 50px 50px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  background: #e63946;
+  border-radius: 15px;
+  border-bottom: 10px solid #9d0208;
+}
+
+#my-face {
+  border-radius: 15px;
+  object-fit: cover;
+  height: 150px;
+  width: 150px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  padding: 0 10px;
+}
+
+#credits {
+  font-size: 20px;
+}
