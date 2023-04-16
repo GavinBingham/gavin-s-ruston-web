@@ -23,27 +23,21 @@ body {
 }
 
 #visit {
-  background: #e63946;
+  background: #d62828;
   padding: 5px 10px;
   border-radius: 5px;
   margin: 5px auto 10px;
   width: fit-content;
-}
-
-#visit:hover {
-  box-shadow: 0px 0px 20px #000000;
+  font-size: 50px;
 }
 
 #enjoy {
   background: #d62828;
   padding: 5px 10px;
   border-radius: 5px;
-  margin: 5px auto 10px;
+  margin: 40px auto 10px;
   width: fit-content;
-}
-
-#enjoy:hover {
-  box-shadow: 0px 0px 20px #000000;
+  font-size: 50px;
 }
 
 img {
