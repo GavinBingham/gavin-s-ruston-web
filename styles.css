@@ -59,9 +59,7 @@ img {
 
 #middle-tittle {
   padding: 0px;
-  margin: 0px;
-  margin-top: 2em;
-  margin-bottom: 4em;
+  margin: 2em auto 4em;
   width: fit-content;
   font-size: 2.5em;
 }
@@ -69,8 +67,8 @@ img {
 
 #middle-items {
   display: flex;
-  justify-content: space-around;
-  flex-flow: wrap;
+  align-items: center;
+  justify-content: space-between;
   margin-bottom: 50px;
   font-weight: bold;
   font-size: 2em;
