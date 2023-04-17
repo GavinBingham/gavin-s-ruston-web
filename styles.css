@@ -72,7 +72,7 @@ img {
   margin-bottom: 50px;
   font-weight: bold;
   font-size: 2em;
-  width: 100%;
+  width: auto;
 }
 
 #show-img {
