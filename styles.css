@@ -75,18 +75,6 @@ img {
   width: 100%;
 }
 
-#theatre {
-  max-width: 33%;
-}
-
-#park {
-  max-width: 33%
-}
-
-#sports {
-  max-width: 33%
-}
-
 #show-img {
   border-radius: 50%;
   object-fit: cover;
